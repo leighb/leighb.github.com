@@ -1,0 +1,19 @@
+/*@font-face {
+    font-family: 'DinerRegular';
+    src: url('../fonts/Diner-Regular-webfont.eot');
+    src: url('../fonts/Diner-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/Diner-Regular-webfont.woff') format('woff'),
+         url('../fonts/Diner-Regular-webfont.ttf') format('truetype'),
+         url('../fonts/Diner-Regular-webfont.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}*/
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+    @font-face {
+    font-family: 'DinerRegular';
+    src: url('../fonts/Diner-Regular-webfont.svg') format('svg');
+
+    }
+}
